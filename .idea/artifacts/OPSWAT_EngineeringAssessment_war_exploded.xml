@@ -13,6 +13,18 @@
         <element id="directory" name="classes">
           <element id="module-output" name="OPSWAT_EngineeringAssessment" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.jakarta.rs:jackson-jakarta-rs-cbor-provider:2.13.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.jakarta.rs:jackson-jakarta-rs-base:2.13.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.13.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-jakarta-xmlbind-annotations:2.13.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.3" />
+          <element id="library" level="project" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:3.0.1" />
+          <element id="library" level="project" name="Maven: com.sun.activation:jakarta.activation:2.0.1" />
+          <element id="library" level="project" name="Maven: com.opswat:metadefender-core-client:4.0.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.7.5" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.7.5" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/OPSWAT_EngineeringAssessment-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
